@@ -46,7 +46,6 @@ High-Level Overview:
 
 <img width="1920" height="1200" alt="Screenshot 2026-08-06 134047" src="https://github.com/user-attachments/assets/a7cc9295-f319-48b3-a516-85f098144ba8" />
 
-
 # Result:
 Thus, the certificate verification has been successfully done using rmix ide
 
